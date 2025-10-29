@@ -29,7 +29,7 @@
 
 ## 2. Diagrama de Classes
 
-![Diagrama de Classes](./imagens/diagrama_classes.jpeg)
+![Diagrama de Classes](\Downloads\diagrama de classes.jpeg)
 
 ---
 
